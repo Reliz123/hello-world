@@ -1,2 +1,2 @@
 # hello-world
-Hello verybody !
+Hello everybody !
